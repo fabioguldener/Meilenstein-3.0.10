@@ -1,2 +1,2 @@
 
-Meilenstein 3.0.11
+Meilenstein 3.0.12
